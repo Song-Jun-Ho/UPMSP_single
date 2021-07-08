@@ -1,0 +1,2 @@
+model_checkpoint_path: "queue-4"
+all_model_checkpoint_paths: "queue-4"
